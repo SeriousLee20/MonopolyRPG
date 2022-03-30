@@ -11,7 +11,7 @@ Play the game.
 * The project is to create a monopoly game with RPG. 
 
 
-## Content
+## Details
 
 This project included the use of OOP in Java and JavaFX. The OOP is utilised for the main classes of the game such as Player and Monster.
 The game is not only for real players vs real players but it is also embedded with a bot player options.
